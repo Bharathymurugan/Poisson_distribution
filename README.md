@@ -76,7 +76,7 @@ else:
 
 # Output : 
 
-
+https://github.com/Bharathymurugan/Poisson_distribution/blob/main/Screenshot%202026-03-14%20123711.png?raw=true
 
 # Results
 
