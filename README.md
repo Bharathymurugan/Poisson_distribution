@@ -75,8 +75,8 @@ else:
  
 
 # Output : 
+"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-14 123711.png"
 
-https://github.com/Bharathymurugan/Poisson_distribution/blob/main/Screenshot%202026-03-14%20123711.png?raw=true
 
 # Results
 
